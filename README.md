@@ -4,7 +4,7 @@ Una herramienta interactiva de análisis digital para explorar los contenidos mu
 
 ## 🌐 Ver la Web
 
-**[👉 Acceder al Análisis Musical](https://leximususal.github.io/analisis-musical-boletin-musical)**
+**[👉 Acceder al Análisis Musical](https://leximususal.github.io/boletinmusical)**
 
 ## 📖 Descripción del Proyecto
 
@@ -84,13 +84,13 @@ Este proyecto forma parte del corpus desarrollado por:
 ## 🚀 Uso y Contribuciones
 
 ### Para usar este proyecto:
-1. Visita la [web publicada](https://leximususal.github.io/analisis-musical-boletin-musical)
+1. Visita la [web publicada](https://leximususal.github.io/principal)
 2. Navega entre las diferentes secciones de análisis
 3. Interactúa con los gráficos para explorar los datos
 
 ### Para desarrollo local:
 ```bash
-git clone https://github.com/leximususal/analisis-musical-boletin-musical.git
+git clone https://github.com/leximususal/boletinmusical.git
 cd analisis-musical-boletin-musical
 # Abrir boletin_musical_estadisticas.html en un navegador web
 ```
@@ -126,4 +126,4 @@ Si utilizas este trabajo en tu investigación, por favor cita:
 ```
 Análisis Musical del "Boletín Musical" (1893-1918). 
 Proyecto LexiMus, Universidad de Salamanca. 
-Disponible en: https://leximususal.github.io/analisis-musical-boletin-musical
+Disponible en: https://leximususal.github.io/boletinmusical
